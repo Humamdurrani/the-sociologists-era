@@ -1,7 +1,7 @@
 # Level 1 — The Sociological Eye
 ## Learning to See What Everyone Else Accepts as Normal
 
-**Seeing the Invisible — A Sociology Curriculum**
+**Seeing the Invisible  A Sociology Curriculum**
 **Maintained by:** Humam Zaman | One Patient OneCure
 **For:** Any student, anywhere, at any stage of life
 
@@ -23,7 +23,7 @@ beyond the textbook definitions.
 
 Maybe you are someone who has always felt 
 that something is deeply wrong with the 
-world around you — but you did not have 
+world around you  but you did not have 
 the language to name it.
 
 Maybe you work in healthcare, or technology, 
@@ -32,7 +32,7 @@ patterns of harm repeating — and you want
 to understand why systems keep failing 
 the same people.
 
-Whoever you are — this curriculum was built 
+Whoever you are  this curriculum was built 
 for you.
 
 Not for the student who wants to memorize 
@@ -55,7 +55,7 @@ You will see history where others see nature.
 You will see construction where others 
 see inevitability.
 
-That skill — seeing the invisible — 
+That skill  seeing the invisible  
 is not comfortable. It will sometimes make 
 you difficult to be around. It will make 
 you impatient with explanations that stop 
@@ -117,7 +117,7 @@ She waits again.
 Her daughter survives. But something 
 happens in that waiting room, in those 
 four minutes, in that prescription she 
-cannot fill — something that is not 
+cannot fill  something that is not 
 medical at all.
 
 Her daughter learns something. 
@@ -127,7 +127,7 @@ She learns that her body is not
 the kind of body that gets attended to quickly.
 She learns that her pain is the kind 
 of pain that waits.
-She learns that the system exists — 
+She learns that the system exists  
 but not entirely for her.
 
 She will carry that knowledge 
@@ -140,7 +140,7 @@ What she believes she deserves.
 
 Now.
 
-Across the city — same city, same day — 
+Across the city  same city, same day — 
 a child from a wealthy family has a fever.
 
 He is seen the same afternoon by a 
