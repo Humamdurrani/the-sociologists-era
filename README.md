@@ -41,7 +41,7 @@ They are sociological ones.
 And the students who are closest to them — 
 who live inside the communities most affected, 
 who have the most urgent stake in getting 
-the analysis right — are precisely the students 
+the analysis right are precisely the students 
 who have the least access to the tools 
 that would help them understand what they are seeing.
 
@@ -56,8 +56,8 @@ Now. Free. Open. For everyone.
 
 **The Sociologist's Era** is a progressive, 
 open-access sociology curriculum that takes 
-a complete beginner — someone who has never 
-studied sociology formally — 
+a complete beginner someone who has never 
+studied sociology formally 
 through six levels of deepening understanding, 
 from the most fundamental sociological skill 
 (learning to see what everyone else accepts as normal) 
@@ -67,7 +67,7 @@ It is built around a single conviction:
 
 > Sociology is not a subject you study.  
 > It is a way of seeing you develop.  
-> And once developed — it cannot be turned off.
+> And once developed it cannot be turned off.
 
 Every level, every module, every exercise 
 in this curriculum is designed to produce 
@@ -84,7 +84,7 @@ but a person who thinks sociologically.
 |-------|-------|---------------|
 | **L1** | The Sociological Eye | The ability to see what everyone else accepts as normal |
 | **L2** | Classical Foundations | Five tools built over 150 years of sociological thinking |
-| **L3** | Sociology Applied to the World | Nine fields — nine domains where the same invisible structures appear |
+| **L3** | Sociology Applied to the World | Nine fields nine domains where the same invisible structures appear |
 | **L4** | Digital Sociology & Health AI | The tools applied to technology, data, and healthcare AI |
 | **L5** | Health AI Ethics | Original frameworks for evaluating AI systems in healthcare |
 | **L6** | Research & Contribution | The student produces new knowledge — not just consumes it |
@@ -140,16 +140,16 @@ in a different form.
 
 The student who finishes Level 2  
 has five tools. Level 3 shows them  
-nine rooms to use those tools in —  
+nine rooms to use those tools in   
 and reveals that every room  
 is asking the same root question.
 
 | Field | Core question | Status |
 |-------|--------------|--------|
-| Digital & technology sociology | Who controls data — and who is harmed when that control is unequal? | Complete ✓ |
+| Digital & technology sociology | Who controls data  and who is harmed when that control is unequal? | Complete ✓ |
 | Medical & health sociology | Who bears the burden of disease — and why does that follow predictable lines? | Coming soon |
 | Sociology of science & knowledge | Whose knowledge counts — and who decides? | Coming soon |
-| Education sociology | Who gets access — and what does exclusion reproduce? | Coming soon |
+| Education sociology | Who gets access  and what does exclusion reproduce? | Coming soon |
 | Economic sociology | How do markets produce and reproduce inequality? | Coming soon |
 | Environmental sociology | Who suffers environmental harm — and why does it follow class and race? | Coming soon |
 | Political sociology | How is power built, maintained, and resisted? | Coming soon |
