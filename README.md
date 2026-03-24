@@ -17,8 +17,8 @@ Most people who need sociology never get it.
 
 Not because they are not intelligent enough.  
 Not because they are not curious enough.  
-But because sociology — as it is currently 
-distributed — lives behind paywalls, 
+But because sociology  as it is currently 
+distributed  lives behind paywalls, 
 inside elite institutions, written in language 
 designed to signal membership rather than 
 to communicate ideas.
@@ -38,7 +38,7 @@ genuinely believing they are doing good.
 These are not technical problems.  
 They are sociological ones.
 
-And the students who are closest to them — 
+And the students who are closest to them  
 who live inside the communities most affected, 
 who have the most urgent stake in getting 
 the analysis right are precisely the students 
@@ -71,7 +71,7 @@ It is built around a single conviction:
 
 Every level, every module, every exercise 
 in this curriculum is designed to produce 
-not a student who knows sociology — 
+not a student who knows sociology  
 but a person who thinks sociologically.
 
 ---
@@ -102,7 +102,7 @@ operating in three different rooms.
 
 Then: the sociological imagination.  
 Then: social structure, power, and social construction  
-explained with full depth — not just defined.  
+explained with full depth.  
 Then: four step-by-step exercises  
 that train the skill of seeing.
 
